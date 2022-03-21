@@ -1,0 +1,14 @@
+C:\Users\WBAKAESS\source\repos\SortingFolder\bin\Release\netcoreapp3.1\SortingFolder.exe
+C:\Users\WBAKAESS\source\repos\SortingFolder\bin\Release\netcoreapp3.1\SortingFolder.deps.json
+C:\Users\WBAKAESS\source\repos\SortingFolder\bin\Release\netcoreapp3.1\SortingFolder.runtimeconfig.json
+C:\Users\WBAKAESS\source\repos\SortingFolder\bin\Release\netcoreapp3.1\SortingFolder.runtimeconfig.dev.json
+C:\Users\WBAKAESS\source\repos\SortingFolder\bin\Release\netcoreapp3.1\SortingFolder.dll
+C:\Users\WBAKAESS\source\repos\SortingFolder\bin\Release\netcoreapp3.1\SortingFolder.pdb
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.AssemblyInfoInputs.cache
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.AssemblyInfo.cs
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.csproj.CoreCompileInputs.cache
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.dll
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.pdb
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.genruntimeconfig.cache
+C:\Users\WBAKAESS\source\repos\SortingFolder\obj\Release\netcoreapp3.1\SortingFolder.csproj.AssemblyReference.cache

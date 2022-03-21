@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eTXffv6wKXRdQP27kfWM76A0Ibv5dZ6y/JLIfJlx3OXv8jOYEePyW1ka0WhrmOg8Q2msm+LM7mOvdH/D2Vzuaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WBAKAESS\\source\\repos\\SortingFolder\\SortingFolder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WBAKAESS\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.21\\microsoft.netcore.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\WBAKAESS\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.21\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\WBAKAESS\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.21\\microsoft.aspnetcore.app.runtime.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
